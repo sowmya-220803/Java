@@ -1,0 +1,80 @@
+***********Java Projects Documentation***************
+Project Title
+
+Java Console Applications
+
+Submitted By
+
+Name: Chunduri Sowmya
+
+Technologies Used
+Java
+VS Code
+Git
+GitHub
+Project Overview
+
+This repository contains three Java console-based applications developed to demonstrate object-oriented programming concepts, user interaction, conditional statements, loops, and basic Java programming.
+
+Project 1: Guessing Number Game
+
+Objective:
+
+To create a game where the user guesses a randomly generated number within a limited number of attempts.
+
+Features:
+Random number generation
+User input validation
+Hints (Higher/Lower)
+Limited attempts
+Displays win/loss message
+
+Concepts Used: 
+Random class
+Loops
+Conditional statements
+Scanner class
+
+Project 2: Student Grade Calculator
+
+Objective:
+
+To calculate the total marks, average percentage, and grade based on the marks entered by the user.
+
+Features:
+Accepts marks for multiple subjects
+Calculates total marks
+Calculates average percentage
+Assigns grade based on percentage
+
+Concepts Used:
+Arrays
+Loops
+Conditional statements
+Scanner class
+
+Project 3: ATM Interface
+
+Objective:
+
+To simulate an ATM system that allows users to perform basic banking operations.
+
+Features:
+Check account balance
+Deposit money
+Withdraw money
+Exit the application
+
+Concepts Used:
+Classes and Objects
+Methods
+Switch statement
+Scanner class
+
+GitHub Repository:
+
+https://github.com/sowmya-220803/java
+
+Conclusion:
+
+These Java projects helped in understanding core Java concepts such as classes, objects, loops, conditional statements, arrays, methods, and user interaction through console-based applications. Git and GitHub were used for version control and project management.
